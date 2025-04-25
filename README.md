@@ -21,7 +21,7 @@ An interactive chatbot built to provide accurate and insightful responses to **m
 
 ## 📸 Sneak Peek
 
-![Screenshot]()
+![Screenshot](https://github.com/BhaveshGoswami11/Final-Project-GenerativeAI/blob/main/Sneak%20Peek.png)
 
 ---
 
