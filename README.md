@@ -184,9 +184,6 @@ Cleveland Clinic
 
 PubMed
 
-🔗 GitHub Repo
-📂 Check out the full source code here:
-👉 https://github.com/your-username/medical-chatbot
 
 🧠 Contributing
 We welcome PRs, suggestions, and new features.
