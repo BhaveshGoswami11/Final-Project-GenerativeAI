@@ -1,4 +1,4 @@
-# Final-Project-GenerativeAI
+# Medical-Personalized-ChatBot
 # 🩺 AI Medical Chatbot 🤖  
 [![Python](https://img.shields.io/badge/Python-3.9+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Built%20with-Streamlit-ff4b4b?logo=streamlit&logoColor=white)](https://streamlit.io)
